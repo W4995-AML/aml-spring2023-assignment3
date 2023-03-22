@@ -2,6 +2,7 @@
 ## aml-assignment-3-spring-2023
 
 > Part 1 : This assignment section covers content of Imbalanced Dataset and Performance metrics.
+
 > Part 2 : [Optional to Submit] This assignment section covers content of applying unsupervised learning approaches.
 
 ## Submission Instructions :
@@ -12,4 +13,4 @@
 
 You will be graded only for Part 1 Mandatory Submission.
 
-## Due Date of Submission is April 4th 2023,2023 11:59 PM. 
+## Due Date of Submission is April 4th 2023, 2023 11:59 PM. 

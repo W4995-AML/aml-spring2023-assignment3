@@ -5,6 +5,8 @@
 
 > Part 2 : [Optional to Submit] This assignment section covers content of applying unsupervised learning approaches.
 
+- Dataset : All the data files that are required to complete the assignment are posted on Courseworks -> Data Folder -> Assignment 3 (as file size > 25MB)
+
 ## Submission Instructions :
 
 - [x] Part 1 Mandatory Submission : You should submit a .pdf version of the notebook along with the .ipynb for a successful submission. Uploading .py file is optional.
